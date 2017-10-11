@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace RomanNumerals
 {
-    public class Class1
+    public class RomanConverter
     {
+
+        public string ArabicToRoman(int number)
+        {
+            return "I";
+        }
     }
 }
